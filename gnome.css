@@ -1,1 +1,44 @@
-h1 {
+/*props to bax3n for most of this. he cool*/
+.nav {
+  font-family: Verdana;
+  padding-left: 50px;
+  background: #000;
+  color: #fff;
+  top: 0;
+  position: fixed;
+  width: 120%;
+  margin-left: -9px;
+  font-size: 10px;
+}
+
+.nav li {
+  font-size: 20px;
+  list-style-type: none;
+  font-weight: 400;
+  padding: 8px;
+  float: left;
+  color: #fff;
+}
+
+.nav li:hover {
+  background: rgba(0, 0, 0, 0.24);
+}
+
+body {
+  background-color:#99732d;
+}
+h3 {
+  font-family:Verdana;
+}
+
+h1, h2 {
+  font-family:Verdana;
+}
+
+ul {
+    font-size:30;
+    font-family:Verdana;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
